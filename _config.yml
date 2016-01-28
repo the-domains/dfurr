@@ -1,0 +1,28 @@
+name: dfurr
+favicon: null
+layout_spectrum: 0.23525600600987673
+typography_spectrum: 0.7686635912396014
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8171606173273176
+  lightness: 0.06809276808053255
+  saturation: 0.33988800551742315
+  rhythmicContrast: 0.5414822730235755
+purpose: []
